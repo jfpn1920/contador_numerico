@@ -5,7 +5,7 @@
 
 Este proyecto consiste en desarrollar un **contador numérico en consola utilizando Python**. El programa imprime los números del 1 al 100, recorriendo una secuencia numérica mediante un bucle `for` y mostrando cada valor en pantalla.
 
-El sistema utiliza variables y bucles para manejar la secuencia de manera eficiente, permitiendo que el usuario vea el conteo completo sin necesidad de ingresar datos adicionales. Además, la salida en consola se realiza de forma clara y ordenada, mostrando cada número de manera secuencial y facilitando la comprensión del flujo del programa. Esto ayuda a que el usuario pueda seguir el conteo fácilmente y refuerza la comprensión del funcionamiento de los bucles en Python.
+El sistema utiliza variables y bucles para manejar la secuencia de manera eficiente, permitiendo que el usuario vea el conteo completo sin necesidad de ingresar datos adicionales. Además, la salida en consola se realiza de forma clara y ordenada, mostrando cada número de manera secuencial y facilitando la comprensión del flujo del programa.
 
 El objetivo principal del proyecto es **reforzar el uso de bucles `for` y la iteración de secuencias en Python**, aplicando lógica sencilla para recorrer rangos numéricos y presentar resultados de manera clara. Este proyecto sirve como base para desarrollar programas más complejos que requieran ciclos y conteos automáticos.
 
